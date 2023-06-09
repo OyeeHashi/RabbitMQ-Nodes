@@ -1,0 +1,8 @@
+https://www.winchester.ac.uk/accommodation-and-winchester-life/scholarships-bursaries-and-awards/international-scholarships-bursaries-and-awards/
+https://opportunityportal.info/oist-fully-paid-japan-internship/
+https://admissions.oist.jp/apply-research-internship
+
+Oct 15 Deadline
+
+jupyter notebook --NotebookApp.allow_origin='https://colab.research.google.com' \
+  --port=9090 --no-browser
